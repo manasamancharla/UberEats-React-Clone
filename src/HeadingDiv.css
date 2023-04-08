@@ -1,0 +1,31 @@
+.HeadingDiv {
+  width: 1360px;
+  height: 44px;
+  padding: 0px 40px;
+  display: flex;
+  box-sizing: border-box;
+  max-height: 44px;
+}
+
+.HeadingDiv h2 {
+  width: 334.567px;
+  height: 44px;
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.HeadingDiv a {
+  height: 44px;
+  width: 192.917px;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  font-weight: 600;
+  position: absolute;
+  right: 0px;
+  margin-top: 25px;
+}
+
+#divh {
+  width: 534.567px;
+}

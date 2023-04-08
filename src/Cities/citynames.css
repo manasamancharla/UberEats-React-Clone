@@ -1,0 +1,16 @@
+#div {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 40px;
+  height: 24px;
+}
+
+#name {
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+#div2 {
+  width: 322px;
+  height: 24px;
+}

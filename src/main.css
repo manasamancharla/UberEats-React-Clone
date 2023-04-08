@@ -1,0 +1,21 @@
+#space {
+  width: 1440px;
+  height: 80px;
+}
+
+#map {
+  width: 1360px;
+  height: 360px;
+  background-image: url("./images/map.png");
+  background-repeat: no-repeat;
+  margin: 0px 40px;
+  margin-top: 20px;
+}
+
+#space2 {
+  height: 24px;
+}
+
+hr {
+  color: lightgray;
+}
